@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.mainContainer {
+  display: flex;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+}
+.image {
+  height: 150px;
+  width: 150px;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+}
